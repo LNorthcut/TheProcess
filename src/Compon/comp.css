@@ -1,0 +1,27 @@
+.Header, .Der {
+    border-color:transparent !important ;
+}
+.fo {
+    /* float:left; */
+    background-color: transparent;
+
+}
+.i {
+    background-image: url('');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.B {
+    float: right;
+}
+
+.Titl{
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    font-size: 3rem !important;
+
+}
+.Ho {
+    font-family: 'Anton', sans-serif;
+
+}
